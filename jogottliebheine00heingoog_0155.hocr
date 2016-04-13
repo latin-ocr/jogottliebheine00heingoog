@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./jogottliebheine00heingoog/jogottliebheine00heingoog_0155.png"; bbox 0 0 2240 3594; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 176 159 840 260">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 176 159 840 260">
+     <span class='ocr_line' id='line_1_1' title="bbox 176 159 840 260; baseline -0.033 -18"><span class='ocrx_word' id='word_1_1' title='bbox 176 188 240 242; x_wconf 75' lang='lat' dir='ltr'><strong>LI.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 257 183 335 242; x_wconf 59' lang='grc' dir='ltr'><strong>ὢν,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 353 171 452 246; x_wconf 61' lang='lat' dir='ltr'><strong>megs</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 468 163 529 240; x_wconf 69' lang='lat' dir='ltr'><strong>Pop.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 546 181 612 260; x_wconf 54' lang='lat' dir='ltr'><strong>ver:</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 628 159 739 236; x_wconf 73' lang='lat' dir='ltr'><strong>capitib.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 784 175 840 232; x_wconf 79' lang='lat'><strong>125</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 4 269 896 444">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 4 269 896 444">
+     <span class='ocr_line' id='line_1_2' title="bbox 4 269 812 394; baseline -0.019 -46"><span class='ocrx_word' id='word_1_8' title='bbox 4 288 291 394; x_wconf 47' lang='lat' dir='ltr'><strong>“sonu</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 356 269 812 340; x_wconf 68' lang='lat' dir='ltr'><strong>PAvuuMncm.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 4 355 896 444; baseline 0.003 -30"><span class='ocrx_word' id='word_1_10' title='bbox 4 387 47 431; x_wconf 57' lang='grc' dir='ltr'><strong>ιῚΙΥ</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 126 384 296 432; x_wconf 65' lang='lat' dir='ltr'><strong>mxu·</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 373 373 542 434; x_wconf 71' lang='lat' dir='ltr'><strong>mm.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 634 355 814 424; x_wconf 64' lang='lat' dir='ltr'><strong>Lunx·</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 891 433 896 444; x_wconf 29' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1124 3594">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1124 3594">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1124 3594; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1124 3594; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
